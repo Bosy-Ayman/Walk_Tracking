@@ -1,7 +1,7 @@
 
 # YOLOv8 Person Tracking on Video
 
-This project showcases how to utilize **YOLOv8** alongside **Deep SORT** to detect and track individuals in a video. The system assigns each detected person a unique ID and visualizes their movement with a colored path.
+This project showcases how to utilize **YOLOv8** to detect and track individuals in a video. The system assigns each detected person a unique ID and visualizes their movement with a colored path.
 
 ---
 
