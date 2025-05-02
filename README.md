@@ -90,5 +90,3 @@ Each tracked individual will be annotated with:
 * **Trajectory Line**: recent movement path
 
 ---
-![VIDEO](https://drive.google.com/file/d/1tPdlZQOj_1Bw8vMHsFOtT3NZrl4Ish9O/view?usp=sharing)
-
