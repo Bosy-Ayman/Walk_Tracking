@@ -3,16 +3,6 @@
 
 This project showcases how to utilize **YOLOv8** to detect and track individuals in a video. The system assigns each detected person a unique ID and visualizes their movement with a colored path.
 
----
-
-## 📦 Requirements
-
-Install required packages:
-
-```
-pip install -q ultralytics
-pip install -q deep_sort_realtime
-```
 
 ---
 
@@ -63,7 +53,7 @@ For each frame:
 
 ## 🎨 Features
 
-* **Real-time tracking** with YOLOv8 + Deep SORT
+* **Real-time tracking** with YOLOv8 
 * **Persistent ID** labeling per person
 * **Trajectory visualization** with color-coded paths
 * **Color cycling** for distinguishable tracks
